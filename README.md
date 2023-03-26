@@ -1,2 +1,2 @@
-# thecommoners.github.io
- The public website of Commoners
+# commonersdev.github.io
+ The public website of COMMONERS
